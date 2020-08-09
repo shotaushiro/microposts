@@ -29,7 +29,7 @@ Rails 5.2.2
 ・詳細機能  
 ***
 ### その他
-・Cloud9で作成
+・Cloud9で作成  
 ・Bootstrapでデザイン  
 ・Mysqlによるデータ管理  
 ・herokuにデプロイ
