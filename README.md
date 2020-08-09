@@ -1,4 +1,10 @@
 # README
+### 概要
+Ruby on Railsの勉強として作成した。 一般的なRailsアプリに実装される、基本的な機能を実装しました。
+
+バージョン
+Ruby 2.4.5
+Rails 5.2.2
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
