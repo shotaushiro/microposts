@@ -2,7 +2,7 @@
 [micropostアプリはこちらからどうぞ](https://afternoon-temple-22969.herokuapp.com/)
 
 Email : test@1.com  
-password : test
+Password : test
 
 こちらでログインできます
 ***
